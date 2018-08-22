@@ -1,0 +1,6 @@
+C:\Users\Suyash Mehrotra\Desktop\dot net programs\reverse\reverse\bin\Debug\reverse.exe.config
+C:\Users\Suyash Mehrotra\Desktop\dot net programs\reverse\reverse\bin\Debug\reverse.exe
+C:\Users\Suyash Mehrotra\Desktop\dot net programs\reverse\reverse\bin\Debug\reverse.pdb
+C:\Users\Suyash Mehrotra\Desktop\dot net programs\reverse\reverse\obj\Debug\reverse.csprojResolveAssemblyReference.cache
+C:\Users\Suyash Mehrotra\Desktop\dot net programs\reverse\reverse\obj\Debug\reverse.exe
+C:\Users\Suyash Mehrotra\Desktop\dot net programs\reverse\reverse\obj\Debug\reverse.pdb
